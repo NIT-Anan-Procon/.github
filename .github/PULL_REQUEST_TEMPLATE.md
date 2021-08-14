@@ -18,7 +18,7 @@
 ## 備考
 
 
-## UIの画像 または Figmaの該当URL
+## UIの画像 または Figmaの該当URL（なければ: なし）
 
 
 ## 対応 Issue
