@@ -14,6 +14,6 @@ assignees: ''
 
 - [ ] 
 
-## FigmaのURLまたはUIの画像(あれば)
+## FigmaのURL または UIの画像(あれば)
 
 ## ゴール・目的（完成物の定義）
