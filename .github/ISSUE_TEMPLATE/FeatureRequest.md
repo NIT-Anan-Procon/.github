@@ -1,6 +1,6 @@
 ---
-name: 追加する機能
-about: 機能を追加するときに使う
+name: 機能リクエスト
+about: 機能や設定を追加・変更する
 title: ''
 labels: enhancement
 assignees: ''
@@ -10,6 +10,6 @@ assignees: ''
 ## 概要
 
 
-## 具体的にやること
+## 具体的な作業内容
 
 - [ ] 
