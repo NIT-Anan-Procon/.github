@@ -1,5 +1,4 @@
 ## Issueへのリンク
-<!-- https://docs.github.com/ja/issues/tracking-your-work-with-issues/creating-issues/linking-a-pull-request-to-an-issue#manually-linking-a-pull-request-to-an-issue -->
 <!-- resolve: #Issue番号 -->
 resolve: #
 
@@ -16,8 +15,8 @@ resolve: #
 
 ## チェックリスト
 - [ ] タイトルを設定している
-- [ ] Issueへのリンクを設定している
-- [ ] Assigneesを設定している
-- [ ] Labelsを設定している
+- [ ] Issue へのリンクを設定している
+- [ ] Assignees を設定している
+- [ ] Labels を設定している
 
 <!-- Create pull requestを押す前にPreviewを確認すること -->
